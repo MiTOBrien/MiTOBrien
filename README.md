@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there! I'm Michael O'Brien. Thanks for stopping by.
+
+I am Turing School of Software & Design graduate and a Full Stack Developer.
+On the frontend I mostly work with Vue, React, Javascript, HTML, and CSS.
+On the backend I mostly work with Ruby on Rails and PostgresSQL databases.
+
+When not coding I enjoy SCUBA diving, bicyling, and rock climbing.
+
+Want to collaborate or just get to know each other, reach out.
+I am always happy to chat.
 
 <!--
 **MiTOBrien/MiTOBrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
